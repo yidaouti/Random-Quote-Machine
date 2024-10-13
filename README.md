@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-![Random Quote Machine](https://example.com/your-image-url) <!-- Optional: Add a project image URL -->
+![Random Quote Machine]([https://example.com/your-image-url](https://yidaouti.github.io/Random-Quote-Machine/)) 
 
 ## Description
 
