@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-![Random Quote Machine]([https://example.com/your-image-url](https://yidaouti.github.io/Random-Quote-Machine/)) 
+![Random Quote Machine](https://yidaouti.github.io/Random-Quote-Machine/) 
 
 ## Description
 
@@ -33,4 +33,4 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yidaouti/Random-Quote-Machine.git
-   cd Rand
+   cd Random-Quote-Machine
